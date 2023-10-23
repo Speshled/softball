@@ -1,0 +1,10 @@
+h2 {
+    margin-top: 0;
+}
+p {
+    margin: 0;
+}
+.inning {
+    display: inline-block;
+    margin-right: 20px;
+}
